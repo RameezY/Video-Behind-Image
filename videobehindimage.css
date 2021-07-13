@@ -1,0 +1,11 @@
+#bgVideo {
+  position: absolute;
+  margin-top: 235px;
+  margin-left: 52px;
+  z-index: -1;
+}
+
+#mask {
+    margin: 0px;
+    z-index: 0;
+}
